@@ -1,0 +1,3 @@
+# Project exclude paths
+/chapter1/client/target/
+/chapter1/server/target/
